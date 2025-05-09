@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- Colores para el juego -->
+    <color name="game_red">#F44336</color>
+    <color name="game_green">#4CAF50</color>
+    <color name="game_blue">#2196F3</color>
+    <color name="game_yellow">#FFEB3B</color>
+    <color name="game_purple">#9C27B0</color>
+    <color name="game_orange">#FF9800</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+</resources>

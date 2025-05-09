@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego de Colores</string>
+
+    <!-- WelcomeFragment -->
+    <string name="welcome_title">¡Juego de Colores!</string>
+    <string name="welcome_description">Presiona el botón que coincida con el color que aparece en pantalla. ¡Tienes 30 segundos para hacer la mayor cantidad de aciertos posibles!</string>
+    <string name="btn_start_game">¡Iniciar Juego!</string>
+
+    <!-- GameFragment -->
+    <string name="time_remaining">Tiempo: %1$d s</string>
+    <string name="score">Puntos: %1$d</string>
+    <string name="color_text">COLOR</string>
+
+    <!-- ResultFragment -->
+    <string name="result_title">¡Juego Terminado!</string>
+    <string name="your_score">Tu puntaje: %1$d</string>
+    <string name="high_score">Record: %1$d</string>
+    <string name="result_excellent">¡Excelente! ¡Tienes reflejos rápidos!</string>
+    <string name="result_good">¡Muy bien! ¡Sigue practicando!</string>
+    <string name="result_average">¡Buen intento! Puedes mejorar.</string>
+    <string name="result_try_again">Sigue intentando, ¡mejorarás!</string>
+    <string name="btn_play_again">Jugar de Nuevo</string>
+    <string name="btn_back_to_menu">Volver al Inicio</string>
+
+    <!-- Color names -->
+    <string name="color_red">ROJO</string>
+    <string name="color_green">VERDE</string>
+    <string name="color_blue">AZUL</string>
+    <string name="color_yellow">AMARILLO</string>
+    <string name="color_purple">MORADO</string>
+    <string name="color_orange">NARANJA</string>
+</resources>
